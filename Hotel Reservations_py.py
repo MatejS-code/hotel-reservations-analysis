@@ -103,8 +103,6 @@ plt.show()
 
 
 """
-Visualizations	
-
 Questions to answer
 
 1. Booking Status Distribution	- How common are cancellations?
